@@ -41,7 +41,7 @@ var (
 
 func printHeader() {
 	yellow.Print("[!] ")
-	white.Printf("Winbox Scanner for MikroTik (RouterOS) - Fast, concurrent, and beautiful\n")
+	white.Printf("Winbox Scanner for MikroTik (RouterOS)\n")
 	white.Printf("    Coded By: K3ysTr0K3R\n\n")
 }
 
